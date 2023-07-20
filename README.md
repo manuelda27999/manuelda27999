@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manuelda27999, fullstack developer
+- 👋 Hi, I’m @manuelda27999, fullstack developer.
 - 👀 I’m interested in front end and back end web development, I am also focused on continuously improving and updating my code and knowledge.
-- 🌱 I'm currently learning several technologies, some of them are svelte, tailwind, daisyUI...
+- 🌱 I'm currently learning several technologies, some of them are react, svelte, tailwind, daisyUI...
 - 📫 How to contact me, is very simple, you can contact me through Linkedin or email, feel free to send me a message.
   
 <p align="left">
